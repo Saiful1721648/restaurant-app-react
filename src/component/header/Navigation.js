@@ -7,8 +7,8 @@ const  Navigation =()=>{
         <div>
          <Navbar dark color="dark">
              <div className="container">
-             <NavbarBrand  href="/">Restaurant App</NavbarBrand>
-             <Button color="danger">Danger!</Button>
+             <NavbarBrand  href="/">Saiful's Restaurant App</NavbarBrand>
+             <Button href="/" color="info">Welcome to my React Project</Button>
              </div>
          
          </Navbar>
